@@ -1,1 +1,1 @@
-# Getting-started-with-intents
+# Intents
